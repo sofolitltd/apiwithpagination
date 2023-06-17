@@ -37,7 +37,10 @@ To run the app locally and try it out on your device or simulator, follow these 
 
 ## API Configuration
 
-The app fetches data from the API at `https://jsonplaceholder.typicode.com/posts?_start=0&_limit=5'`.
+The app fetches data from the API at 
+~~~
+https://jsonplaceholder.typicode.com/posts?_start=0&_limit=5
+~~~
 
 ## Pagination
 
