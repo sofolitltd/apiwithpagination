@@ -9,6 +9,7 @@ Welcome to **Api with Pagination**! This app is a showcase of how to integrate A
 - Displays a beautiful user interface with smooth scrolling.
 
 ## Screenshots
+![api with pagination](https://github.com/sofolitltd/apiwithpagination/assets/102704714/302ea5fd-dbfe-44e2-8f75-d151c9b57f20)
 
 
 ## Getting Started
