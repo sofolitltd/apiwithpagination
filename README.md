@@ -22,13 +22,16 @@ To run the app locally and try it out on your device or simulator, follow these 
 2. Open the project in your preferred IDE or editor (e.g., Visual Studio Code, Android Studio).
 
 3. Install the required dependencies by running the following command in the project directory:
- flutter pub get
+ ```
+  flutter pub get
+```
 
 4. Connect your device or start an emulator/simulator.
 
 5. Run the app using the following command:
+```
    flutter run
-
+```
 
 ## API Configuration
 
