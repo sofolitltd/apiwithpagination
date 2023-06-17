@@ -17,7 +17,7 @@ Welcome to **Api with Pagination**! This app is a showcase of how to integrate A
 To run the app locally and try it out on your device or simulator, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/sofolitltd/apiwithpagination.git
+   ```git clone https://github.com/sofolitltd/apiwithpagination.git```
 
 2. Open the project in your preferred IDE or editor (e.g., Visual Studio Code, Android Studio).
 
